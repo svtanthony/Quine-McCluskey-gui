@@ -1,6 +1,9 @@
 # Quine-McCluskey-gui
 GUI implementation of the Quine-McCluskey algorithm for minimizing Boolean functions. 
 
+## Examples
+![alt tag](https://raw.github.com/svtanthony/Quine-McCluskey-gui/master/demo.gif)
+
 ## Usage
 Key features include:  
 * Tabular entries  
@@ -9,8 +12,6 @@ Key features include:
 * Products-of-Sum outputs  
 * Compliment output
 
-## Examples
-![alt tag](https://raw.github.com/svtanthony/Quine-McCluskey-gui/master/demo.gif)
 ## Installation
-To compile from source use `qt` with the `qt 4 libraries`  
-
+Install `qt4-default` if not already installed.
+Run `make`
