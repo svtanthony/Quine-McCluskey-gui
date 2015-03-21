@@ -13,5 +13,6 @@ Key features include:
 * Compliment output
 
 ## Installation
-Install `qt4-default` if not already installed.
-Run `make`
+Install `qt4-default` if not already installed.  
+From the command line type `qmake` to create a Makefile.  
+Now type `make` to compile.  
