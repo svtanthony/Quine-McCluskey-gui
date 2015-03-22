@@ -20,8 +20,9 @@ Key features include:
 * Compliment output
 
 ## Installation
-Install `qt4-default` if not already installed.  
-Type the following at the command prompt to compile:  
+1. Install `qt4-default` if not already installed.  
 ```
-$ make
+2. $ git clone https://github.com/svtanthony/Quine-McCluskey-gui.git
+3. $ cd Quine-McCluskey-gui
+4. $ make
 ```
