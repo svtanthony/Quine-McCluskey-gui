@@ -20,7 +20,8 @@ Key features include:
 * Compliment output
 
 ## Installation
-1. Install `qt4-default` if not already installed.
+1. Download and install QT4 libraries.  
+  -> Ubuntu Example `$ sudo apt-get install qt4-default` 
 ```
 2. $ git clone https://github.com/svtanthony/Quine-McCluskey-gui.git
 3. $ cd Quine-McCluskey-gui
