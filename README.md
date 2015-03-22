@@ -23,6 +23,5 @@ Key features include:
 Install `qt4-default` if not already installed.  
 Type the following at the command prompt to compile:  
 ```
-$ qmake  
 $ make
 ```
