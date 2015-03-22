@@ -20,7 +20,7 @@ Key features include:
 * Compliment output
 
 ## Installation
-1. Install `qt4-default` if not already installed.  
+1. Install `qt4-default` if not already installed.
 ```
 2. $ git clone https://github.com/svtanthony/Quine-McCluskey-gui.git
 3. $ cd Quine-McCluskey-gui
